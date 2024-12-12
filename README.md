@@ -133,7 +133,7 @@ sudo cp -rf view-app-grid-ubiquity-symbolic.svg view-app-grid-symbolic.svg
 
 最后重启
 
-![输入图片说明](%E5%9B%BE%E7%89%8721.png)
+![输入图片说明](%E5%9B%BE%E7%89%8722.png)
 
 你的Gnome就美化成Ubuntu的样式了！！！
 
