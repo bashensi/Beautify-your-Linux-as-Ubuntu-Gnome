@@ -140,6 +140,7 @@ sudo cp -rf view-app-grid-ubiquity-symbolic.svg view-app-grid-symbolic.svg
 ### 问题解决
 
 如果你的设置界面Shell样式是不能选的，只需要到插件软件里把user theme这个插件打开就可以选了！
+如果你没有壁纸，你可以来 [链接](http://archive.ubuntu.com/ubuntu/pool/main/u/ubuntu-wallpapers/ubuntu-wallpapers_24.10.3.orig.tar.gz) 这里下载壁纸。
 
 ### 结尾
 
