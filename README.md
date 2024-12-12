@@ -140,3 +140,10 @@ sudo cp -rf view-app-grid-ubiquity-symbolic.svg view-app-grid-symbolic.svg
 ### 问题解决
 
 如果你的设置界面Shell样式是不能选的，只需要到插件软件里把user theme这个插件打开就可以选了！
+
+### 结尾
+
+快去和你的朋友分享你美化好的Gnome界面吧！！！
+如果你喜欢这个教程，复制给你的朋友看也可以啊o(≧口≦)o！！！
+
+作者：巴神汜
