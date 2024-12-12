@@ -13,7 +13,7 @@
 
 ### 第一步、下载主题包
 
-来这里 [输入链接说明](https://github.com/ubuntu/yaru) 下载Yaru主题包。
+来这里 [链接](https://github.com/ubuntu/yaru) 下载Yaru主题包。
 
 ![输入图片说明](%E5%9B%BE%E7%89%87.png)
 
