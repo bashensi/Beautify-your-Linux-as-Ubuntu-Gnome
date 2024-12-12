@@ -125,3 +125,18 @@ sudo cp -rf view-app-grid-ubiquity-symbolic.svg view-app-grid-symbolic.svg
 
 ![输入图片说明](%E5%9B%BE%E7%89%8718.png)
 
+![输入图片说明](%E5%9B%BE%E7%89%8719.png)
+
+然后把主文件夹移动到最下边
+
+![输入图片说明](%E5%9B%BE%E7%89%8720.png)
+
+最后重启
+
+![输入图片说明](%E5%9B%BE%E7%89%8721.png)
+
+你的Gnome就美化成Ubuntu的样式了e！！！
+
+### 问题解决
+
+如果你的美化界gnome shell样式是不能选的，只需要到插件软件里把user theme这个插件打开就可以了！
